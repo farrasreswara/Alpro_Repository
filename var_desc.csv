@@ -1,0 +1,12 @@
+﻿Variables;Description
+expiration;the coupon expires in 1 day or in 2 hours
+Bar;how many times do you go to a bar every month
+CoffeeHouse;feature meaning: how many times do you go to a coffeehouse every month
+CarryAway;how many times do you get take-away food every month
+RestaurantLessThan20;how many times do you go to a restaurant with an average expense per person of less than $20 every month
+Restaurant20To50;how many times do you go to a restaurant with average expense per person of $20 - $50 every month
+toCoupon_GEQ15min;driving distance to the restaurant/bar for using the coupon is greater than 15 minutes
+toCoupon_GEQ25min;driving distance to the restaurant/bar for using the coupon is greater than 25 minutes
+direction_same;whether the restaurant/bar is in the same direction as your current destination
+direction_opp;whether the restaurant/bar is in the same direction as your current destination
+Y;whether the coupon is accepted
